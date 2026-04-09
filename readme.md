@@ -110,7 +110,7 @@ Every invoice PDF includes:
 ## 👤 Author
 
 **Pawan Bhatia**  
-📧 pawanbhatia3320@gmail.com    
+📧 pawanbhatia1304@gmail.com    
 🐱 [GitHub](https://github.com/pawanbhatia1304)
 
 ---
